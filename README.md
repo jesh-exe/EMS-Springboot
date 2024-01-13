@@ -1,4 +1,6 @@
 # Employee Management System
+This application was developed using Spring Boot, Spring MVC, Hibernate, Spring Data JPA and MySQL while I was learning the Advanced Java Module at CDAC - ACTS. This project was just to implement the concepts I learned during Advance Java Journey.
+It is not a complete project, due to the time constraint I've got less time to work on this project. Will be continuing later!
 
 ## Login Page
 ![LoginPage](https://github.com/jesh-exe/EMS-Springboot/assets/63248212/15a658f3-f953-4124-b31e-f39beb04a341)
